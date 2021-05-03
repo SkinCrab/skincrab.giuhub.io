@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://skina.cn/2021/05/02/about-this-site/</loc>
     
     <lastmod>2021-05-02</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://skina.cn/link/index.html</loc>
     
     <lastmod>2021-05-02</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/05/02/hello-world/</loc>
+    <loc>https://skina.cn/about/index.html</loc>
+    
+    <lastmod>2021-05-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://skina.cn/2021/05/02/hello-world/</loc>
     
     <lastmod>2021-05-02</lastmod>
     
@@ -24,8 +31,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2021-05-02</lastmod>
+    <loc>https://skina.cn/</loc>
+    <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
