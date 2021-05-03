@@ -6,7 +6,7 @@
   <link href="https://skina.cn/atom.xml" rel="self"/>
   
   <link href="https://skina.cn/"/>
-  <updated>2021-05-02T13:22:59.262Z</updated>
+  <updated>2021-05-02T11:38:17.330Z</updated>
   <id>https://skina.cn/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>About This Site</title>
-    <link href="https://skina.cn/2021/05/02/about-this-site/"/>
-    <id>https://skina.cn/2021/05/02/about-this-site/</id>
-    <published>2021-05-02T13:15:00.435Z</published>
-    <updated>2021-05-02T13:22:59.262Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是我建立的第…(掰手指头数)第n个(数不过来了)博客了</p><p>之前的博客 不是服务器太贵（其实是我没钱续费） 就是没钱续费（其实是服务器太贵）。<br>当然，上一个博客不同…</p><h2 id="上一个博客的故事"><a href="#上一个博客的故事" class="headerlink" title="上一个博客的故事"></a>上一个博客的故事</h2><p>上一个博客叫做SkinCrab，你可以在 <a href="http://oldblog.skina.cn/">这里</a> 找到它，需要注意的是，页面中所有资源均指向原域名（即 本站域名” <a href="https://skina.cn/">https://skina.cn/</a> “ ），所以如果你需要访问其他页面，请手动将链接中的 skina.cn 更改为 oldblog.skina.cn （别问为什么我不改，因为我懒…）</p><h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><p>大概二十多天以前，刚开始放暑假，我在家闲着无聊，折腾电脑…结果把电脑的管理员权限给折腾没了。上了百度、必应、谷歌、Microsoft Community，均没有找到对应的解决办法，那能怎么办？只能重装系统呗…</p><h3 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h3><p>于是去了Microsoft官网下了一个启动盘制作器，结果因为C盘没有足够的空间（是没有权限），无法制作…<br>去 <a href="https://msdn.itellyou.cn/">MSDNITellYou</a> 下载了官方镜像，用老毛桃做好pe盘，然后曲线救国，用pe盘制作了一个启动盘（别骂了别骂了）…</p><h3 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h3><p>当我用重装完的系统两三天后，突然发现“诶，我的博客是不是没有备份啊？不会吧不会吧！”，好吧，事实真是如此…<br>只好忍痛，用hexo重建了这个博客。</p><h2 id="这个博客的故事"><a href="#这个博客的故事" class="headerlink" title="这个博客的故事"></a>这个博客的故事</h2><p>这个博客没啥故事，毕竟才建几天。。。可以去<a href="https://skina.cn/2020/08/30/story-of-this-website/links/">我的朋友</a>那逛逛<br>非要我讲，好吧那我讲讲。</p><h3 id="所用资源"><a href="#所用资源" class="headerlink" title="所用资源"></a>所用资源</h3><p>采用hexo搭建，主题使用Fluid…建于2020-08-16。主体所使用背景图为27日在我市某山顶使用CC9Pro所拍摄的。</p><h3 id="GH-Pages无法访问"><a href="#GH-Pages无法访问" class="headerlink" title="GH Pages无法访问"></a>GH Pages无法访问</h3><p>最近也不知道在搞什么动作，GH Pages未使用自定义域名的在大陆地区均被解析至本地计算机(即 127.0.0.1),而我使用了skina.cn的域名，则被施加了魔法——无法访问，无可奈何，只得套上CloudFlare，慢就慢一点吧，总比无法访问来得好。</p><p><strong>明天就开学了，祝我好运！</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这是我建立的第…(掰手指头数)第n个(数不过来了)博客了&lt;/p&gt;
-&lt;p&gt;之前的博客 不是服务器太贵（其实是我没钱续费） 就是没钱续费（其实是服务器太贵）。&lt;br&gt;当然，上一个博客不同…&lt;/p&gt;
-&lt;h2 id=&quot;上一个博客的故事&quot;&gt;&lt;a href=&quot;#上一个博客的故事&quot; cl</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -55,6 +33,30 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>About This Site</title>
+    <link href="https://skina.cn/2020/08/31/about-this-site/"/>
+    <id>https://skina.cn/2020/08/31/about-this-site/</id>
+    <published>2020-08-31T05:14:20.000Z</published>
+    <updated>2020-08-31T14:22:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我建立的第…(掰手指头数)第n个(数不过来了)博客了</p><p>之前的博客 不是服务器太贵（其实是我没钱续费） 就是没钱续费（其实是服务器太贵）。<br>当然，上一个博客不同…</p><h2 id="上一个博客的故事"><a href="#上一个博客的故事" class="headerlink" title="上一个博客的故事"></a>上一个博客的故事</h2><p>上一个博客叫做SkinCrab，你可以在 <a href="http://oldblog.skina.cn/">这里</a> 找到它，需要注意的是，页面中所有资源均指向原域名（即 本站域名” <a href="https://skina.cn/">https://skina.cn/</a> “ ），所以如果你需要访问其他页面，请手动将链接中的 skina.cn 更改为 oldblog.skina.cn （别问为什么我不改，因为我懒…）</p><h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><p>大概二十多天以前，刚开始放暑假，我在家闲着无聊，折腾电脑…结果把电脑的管理员权限给折腾没了。上了百度、必应、谷歌、Microsoft Community，均没有找到对应的解决办法，那能怎么办？只能重装系统呗…</p><h3 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h3><p>于是去了Microsoft官网下了一个启动盘制作器，结果因为C盘没有足够的空间（是没有权限），无法制作…<br>去 <a href="https://msdn.itellyou.cn/">MSDNITellYou</a> 下载了官方镜像，用老毛桃做好pe盘，然后曲线救国，用pe盘制作了一个启动盘（别骂了别骂了）…</p><h3 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h3><p>当我用重装完的系统两三天后，突然发现“诶，我的博客是不是没有备份啊？不会吧不会吧！”，好吧，事实真是如此…<br>只好忍痛，用hexo重建了这个博客。</p><h2 id="这个博客的故事"><a href="#这个博客的故事" class="headerlink" title="这个博客的故事"></a>这个博客的故事</h2><p>这个博客没啥故事，毕竟才建几天。。。可以去<a href="https://skina.cn/link/">我的朋友</a>那逛逛<br>非要我讲，好吧那我讲讲。</p><h3 id="所用资源"><a href="#所用资源" class="headerlink" title="所用资源"></a>所用资源</h3><p>采用hexo搭建，主题使用Fluid…建于2020-08-16。主体所使用背景图为27日在我市某山顶使用CC9Pro所拍摄的。</p><h3 id="GH-Pages无法访问"><a href="#GH-Pages无法访问" class="headerlink" title="GH Pages无法访问"></a>GH Pages无法访问</h3><p>最近也不知道在搞什么动作，GH Pages未使用自定义域名的在大陆地区均被解析至本地计算机(即 127.0.0.1),而我使用了skina.cn的域名，则被施加了魔法——无法访问，无可奈何，只得套上CloudFlare，慢就慢一点吧，总比无法访问来得好。</p><p><strong>明天就开学了，祝我好运！</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是我建立的第…(掰手指头数)第n个(数不过来了)博客了&lt;/p&gt;
+&lt;p&gt;之前的博客 不是服务器太贵（其实是我没钱续费） 就是没钱续费（其实是服务器太贵）。&lt;br&gt;当然，上一个博客不同…&lt;/p&gt;
+&lt;h2 id=&quot;上一个博客的故事&quot;&gt;&lt;a href=&quot;#上一个博客的故事&quot; cl</summary>
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://skina.cn/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
